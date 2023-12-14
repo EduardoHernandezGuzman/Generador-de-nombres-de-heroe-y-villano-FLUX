@@ -1,0 +1,36 @@
+.imagenLogo {
+    height: 15rem;
+    width: 15rem;
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+
+.estiloNavbar {
+   
+    justify-content: center;
+    align-items: center;
+    background-color: #000910;
+    margin: 2rem auto;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    width: 76rem;
+    padding: 2rem;
+    
+    
+}
+
+.titulo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 4rem;
+    color: #fdfdf1;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.hyv {
+    
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5rem;
+    color: white;
+}
